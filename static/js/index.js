@@ -54,7 +54,7 @@ function plotChartOne() {
         if (putniTroskoviOdabir) {
             var politicianName = putniTroskoviOdabir;
         } else {
-            var politicianName = 'sve';
+            var politicianName = 'Sve';
         }
 
         var trace1 = {
@@ -133,7 +133,7 @@ function plotChartTwo() {
         if (putniTroskoviOdabir) {
             var politicianName = putniTroskoviOdabir;
         } else {
-            var politicianName = 'sve';
+            var politicianName = 'Sve';
         }
 
         var trace1 = {
@@ -213,7 +213,7 @@ function plotChartThree() {
         if (putniTroskoviOdabir) {
             var politicianName = putniTroskoviOdabir;
         } else {
-            var politicianName = 'sve';
+            var politicianName = 'Sve';
         }
 
         var trace1 = {
